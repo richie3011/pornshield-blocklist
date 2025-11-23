@@ -33,19 +33,6 @@ Tambahkan URL berikut pada bagian **Custom Filter List**:
 ```
 https://raw.githubusercontent.com/<username>/<repo-name>/main/anti-porn-list.txt
 ```
-
-*(ganti `<username>` dan `<repo-name>` sesuai repositori Anda)*
-
----
-
-## 📂 Struktur File
-
-| File                   | Fungsi                            |
-| ---------------------- | --------------------------------- |
-| **anti-porn-list.txt** | Daftar blokir dalam format `$doc` |
-| **sources.md**         | Sumber domain yang digunakan      |
-| **changelog.md**       | Catatan perubahan setiap update   |
-
 ---
 
 ## 🧪 Contoh Format Filter

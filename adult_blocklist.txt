@@ -1,4 +1,4 @@
-! Title: ⛔Porn Sites BlockLists
+! Title: ⛔Anti-Porn Filter 
 ! Updated: 2025-11-24
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ChowMein47/Safety-Filters

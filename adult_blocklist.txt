@@ -28,5 +28,9 @@
 ! REGEX BLOCKING 
 /:\/\/[^\/]*(porn|xxx|sex|adult|erotic|hentai|jav|fetish|bdsm|cam|escort|milf|bokep|crot|nsfw)[^\/]*\./$document
 
+!
+Xhamster Family Sites
+/^https?:\/\/.*(xhamster|xhacces)/$document
+
 ! WHITELIST
 @@||github.com^$document

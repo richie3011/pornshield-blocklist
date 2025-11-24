@@ -1,7 +1,7 @@
 
 # 🛡️ Anti Porn Filter List
 
-**Filter List untuk memblokir situs pornografi – kompatibel dengan AdBlock, uBlock Origin, AdGuard, dan sistem penyaring konten lainnya.**
+**Filter List untuk memblokir situs pornografi – kompatibel dengan Brave Browser, uBlock Origin, AdGuard, dan sistem penyaring konten lainnya.**
 
 Proyek ini menyediakan daftar blokir untuk menjaga keamanan keluarga, sekolah, kantor, dan jaringan publik dari akses ke situs-situs dewasa.
 Filter disusun dengan rapi, ringan, dan mudah digunakan.

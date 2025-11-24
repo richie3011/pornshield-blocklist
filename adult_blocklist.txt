@@ -22,6 +22,8 @@
 ||fapdu.com$doc
 ||yourpornsite-example.org$doc
 ||bangbros.com$doc
+||missav.live$doc
+||66.29.129.161^$document
 
 ! REGEX BLOCKING 
 /:\/\/[^\/]*(porn|xxx|sex|adult|erotic|hentai|jav|fetish|bdsm|cam|escort|milf|bokep|crot|nsfw)[^\/]*\./$document

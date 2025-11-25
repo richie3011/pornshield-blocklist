@@ -1,4 +1,3 @@
-
 # 🛡️ Anti Porn Filter List
 
 **Filter List untuk memblokir situs pornografi – kompatibel dengan Brave Browser, uBlock Origin, AdGuard, dan sistem penyaring konten lainnya.**
@@ -31,7 +30,7 @@ Filter disusun dengan rapi, ringan, dan mudah digunakan.
 Tambahkan URL berikut pada bagian **Custom Filter List**:
 
 ```
-https://cdn.jsdelivr.net/gh/ChowMein47/Safety-Filters@refs/heads/main/adult_blocklist.txt
+https://cdn.jsdelivr.net/gh/richie3011/pornshield-blocklist@refs/heads/main/adult_blocklist.txt
 ```
 ---
 

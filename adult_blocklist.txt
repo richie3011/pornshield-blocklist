@@ -4,8 +4,7 @@
 ! Homepage: https://github.com/ChowMein47/Safety-Filters
 ! License: Mozilla Public License Version 2.0
 ====================================
-!
-(International sites)
+!!International sites
 ||xvideos.com$doc
 ||xnxx.com$doc
 ||redtube.com$doc
@@ -20,12 +19,23 @@
 ||missav.live$doc
 ||66.29.129.161^$document
 ||beastiality.tv$doc
+||noodlemagazine.com$doc
+||mat6tube.com$doc
+||beeg.porn^$document
+||youjizz.com$doc
+||xorgasmo.com$doc
+||assoass.com$doc
+||fux.com$doc
+||peekvids.com$doc
 
-! REGEX BLOCKING 
-/:\/\/[^\/]*(porn|xxx|sex|adult|erotic|hentai|jav|fetish|bdsm|cam|escort|fap|gay|milf|bokep|crot|nsfw)[^\/]*\./$document
+!!Local Indonesia sites 
+||tiava.com$doc
+||indo18.com$doc
 
-!
-Xhamster Family Sites
+!!REGEX BLOCKING 
+/:\/\/[^\/]*(porn|xxx|sex|adult|erotic|hentai|jav|fetish|pussy|bdsm|cam|escort|fap|gay|milf|bokep|crot|nsfw)[^\/]*\./$document
+
+!!xhamster family sites
 /^https?:\/\/.*(xhamster|xhacces|xho|xhspot)/$document
 
 ! WHITELIST

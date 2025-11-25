@@ -1,7 +1,7 @@
 ! Title: 🚫Anti-Porn Filter List 
 ! Updated: 2025-11-25
 ! Expires: 4 days (update frequency)
-! Homepage: https://github.com/ChowMein47/Safety-Filters
+! Homepage: https://github.com/ChowMein47/pornshield-blocklist
 ! License: Mozilla Public License Version 2.0
 
 ====================================
